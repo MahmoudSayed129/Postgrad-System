@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# University-Grad-System
-=======
 # Postgrad System
 
 Welcome to the Postgrad System project repository! This project aims to create a comprehensive platform for managing postgraduate programs, including student registration, thesis tracking, progress reporting, course management, and publication tracking. The system caters to administrators, supervisors, and students, providing them with the necessary tools to streamline and automate various processes involved in postgraduate studies at the German University in Cairo (GUC).
@@ -72,4 +69,3 @@ The Postgrad System accommodates different types of users:
 The Postgrad System project aims to enhance the management of postgraduate programs at GUC, providing a user-friendly and efficient platform for administrators, supervisors, and students. With its comprehensive features and robust functionality, the system aims to streamline processes and improve overall efficiency in postgraduate studies.
 
 Thank you for your interest in the Postgrad System project. For any inquiries or assistance, please reach out to the project maintainers. Happy coding! 🎓💻
->>>>>>> origin/main
